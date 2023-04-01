@@ -1,6 +1,6 @@
 version: "3.7"
 services:
-  kali-service:
+  kali:
     build:
       context: .
     volumes:
